@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1601765401 source:c:\users\jay\desktop\estudios\programacion1\tp2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"Empleados.h"
+
+1601762824 source:c:\users\jay\desktop\estudios\programacion1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"Empleados.h"
+
+1601764466 c:\users\jay\desktop\estudios\programacion1\tp2\funciones.h
+
+1601765334 c:\users\jay\desktop\estudios\programacion1\tp2\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601764453 source:c:\users\jay\desktop\estudios\programacion1\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
